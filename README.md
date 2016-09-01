@@ -10,5 +10,5 @@ creating artificially a spike in the Vsh profile).
 Click on the notebook to see the code or run it interactively in the following link
 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/OHP-2016-material/SNR/explore-SNR-spectra)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/snr_evolution)
 
