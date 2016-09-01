@@ -7,7 +7,7 @@ In addition only one set of equations are necessary to cover the ejecta dominate
 therefore a smooth shock speed profile (the TM equations provide two sets of equations that are connected at a given point in time ; 
 creating artificially a spike in the Vsh profile).
 
-Click on the notebook to see the code or run it interactively in the following link
+Click on the Jupyter notebook (*ipynb) in the files above to see the code or run it interactively in the following link:
 
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/facero/snr_evolution)
